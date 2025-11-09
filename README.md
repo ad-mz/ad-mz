@@ -10,7 +10,7 @@ I focus on ethical, transparent, and explainable AI workflows, and I enjoy turni
 - **[Spotify 2023 Analysis](https://github.com/ad-mz/spotify-2023-analysis)**  
   Exploratory data analysis of Spotify tracks with visualizations and insights.
 
-- **[R Case Studies: Iris & mtcars](https://github.com/ad-mz/R-Case-Studies)**  
+- **[R Case Studies: Iris & mtcars](https://github.com/ad-mz/R-Data-Analysis)**  
   Classic datasets analyzed in R, showcasing statistical methods and visualization.
 
 - **Cyclistic Bike Share Case Study**  
